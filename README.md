@@ -1,5 +1,6 @@
-# Your project name
-Your name or CVTC username
+# Charity Search
+Braden Walbeck
 
-Your project description
+This website is intended to be used as a tool to connect people with charities. 
 
+https://charity-search.onrender.com/

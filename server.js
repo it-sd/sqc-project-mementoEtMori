@@ -11,6 +11,9 @@ express()
   .get('/', function (req, res) {
     res.render('pages/index')
   })
+  .get('/about', function (req, res) {
+    res.render('pages/about')
+  })
   .get('/health', function (req, res) {
   res.status(200).send('Healthy')
   })
