@@ -1,5 +1,17 @@
-// server.js 
-// Final Project
-// Braden Walbeck
+const express = require('express')
+const path = require('path')
+const PORT = process.env.PORT || 5163
 
-console.log("Final Project");
+express()
+  .use(express.static(path.join(__dirname, 'public')))
+  .use(express.json())
+  .use(express.urlencoded({ extended: true }))
+  .set('views', path.join(__dirname, 'views'))
+  .set('view engine', 'ejs')
+  .get('/', function (req, res) {
+    res.render('pages/index')
+  })
+  .get('/health', function (req, res) {
+  res.status(200).send('Healthy')
+  })
+  .listen(PORT, () => console.log(`Listening on ${PORT}`))
