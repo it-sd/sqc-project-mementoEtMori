@@ -10,7 +10,7 @@ page that will have a table that displays the most recent searches/links clicked
 can identify what others have been recently viewing/ donating to. 
 
 ## Web Service
-![Charity Search](https://charityapi.orghunter.com/)
+[Charity Search](https://charityapi.orghunter.com/)
 This service uses API for authentification. 
 * http://data.orghunter.com/v1/charitysearch using a Post request.
 
