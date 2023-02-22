@@ -35,7 +35,7 @@ const queryAllCharities = async function (src) {
 
 module.exports = { 
   query,
-  queryAllcharities
+  queryAllCharities
 }
 
 express()
