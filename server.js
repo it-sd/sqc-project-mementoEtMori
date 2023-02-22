@@ -66,8 +66,7 @@ express()
     const entries = {
       charityName: charityName.entries,
       category: category.entries,
-      state: state.entries,
-      table: ''
+      state: state.entries
     }
     res.render('pages/list', entries)
   })
