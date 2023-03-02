@@ -25,3 +25,5 @@ recentSearches. So from the home(search) page, you can either enter a search phr
 navigate using the nav bar to: about and recentSearches. I also thought about adding 
 a "Favorite Charities" subsection to the home page that would show my favorite charities 
 and their website and mission statement.
+
+![layout](indeed_display.png)
