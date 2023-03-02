@@ -6,7 +6,7 @@ functionality. Right now, I still don't have data displaying to the webpage, so 
 is hard to think about heuristic improvements. Nevertheless, here are some potential 
 fixes/features.
 
-### 1. Table Display Style
+### 1. Table Display Style (Aesthetic and Minimalist Design)
 
 I've watched a few youtube videos on displaying table data in a well designed manner 
 that would be pleasant for the user. I'm picturing a vertical list with 1 column and 
@@ -14,7 +14,7 @@ n number of rows, (n being the number of results). Each list will contain the el
 given from the API (charity name, website, location, mission statement, etc.). The design 
 will be subject to change but I'm imagining something similar to indeed.com. 
 
-### 2. Home/Navigation Optimization
+### 2. Home/Navigation Optimization (User Control and Freedom)
 
 I have been indecisive about how I should go about navigation for this website. 
 Since the main function of the website is searching, I think search should be the home 
