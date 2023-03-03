@@ -27,3 +27,8 @@ a "Favorite Charities" subsection to the home page that would show my favorite c
 and their website and mission statement.
 
 ![layout](indeed_display.png)
+
+## Color Scheme & Typography
+![color](color_scheme.png)
+I chose these colors because they have a soft and gentle feel, which is how I'd like this site to feel. I've always prefered websites with simple and subtle color schemes, so that's what I'm going for here. Most of the site will be white with accents of these various shades of blue for things such as the nav bar, display list, and content background perhaps. 
+For fonts, again I think that subtlty is key here. I don't want to draw attention to the fonts, I want them to just be elegant and natural. I want the nav bar to be bold and big whereas the paragraph text should be a normal type of font that is easily read. The paragraph font should be something of the Sans Serif family; like Neue Helvetica or anything basic. The nav could be the same font type but of the bold variety. Again, the main purpose here is not to be fancy or bring attention to the font. The goal is readability and elegance. 
