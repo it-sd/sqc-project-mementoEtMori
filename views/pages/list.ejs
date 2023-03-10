@@ -1,0 +1,13 @@
+<%- include('../shared/header.ejs') %>
+
+<main>
+
+<h3>Charity Name List</h3>
+  
+  <ul>
+        <%_ for (const entry of charityName) { _%>
+          <li><a href="/view/charityName/<%= entry.id %>"><%= entry.charityName %></li>
+        <%_ } _%>
+  </ul>
+
+</main>
