@@ -1,5 +1,5 @@
 body {
-    background: #black;
+    background-color: #05CDF7;
 }
 
 header h1 {
@@ -16,7 +16,7 @@ nav {
 
 nav > ul > li {
     text-align: center;
-    color: #red;
+    color: black;
     margin-left: 10px;
     margin-right: 10px;
     display: inline;
@@ -27,13 +27,14 @@ main {
     width: 70%;
     margin-left: auto;
     margin-right: auto;
-    background-color: #blue;
-    padding: 10px 10px 10px 10px;
+    background-color: #074FEB;
+    padding: 10px;
     border-radius: 5px;
+    color: white;
 }
 
 a:hover {
     text-decoration: underline;
     background-color: grey;
-    padding: 2px 2px 2px 2px;
+    padding: 2px;
 }

@@ -6,8 +6,8 @@ describe('charity server', function () {
   it('should return 200', async function () {
   const url = new URL(route, baseUrl)
   const res = await fetch(url)
-  expect(res.status.greaterThanOrEqual(200)
-  expect(res.status).lessThanOrEqual(399)
+  expect(res.status.greaterThanOrEqual(200),
+  expect(res.status).lessThanOrEqual(399))
   }, 10000)
 }
 
